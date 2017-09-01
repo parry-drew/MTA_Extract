@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # ---------------------------------------------------------------------------
 # mta_extract.py
-# The purpose of these scripts is collect and process spatial data from the MTA
-# GTFS for use in the iRideNYC map. This data includes:
+# The purpose of this scripts is collect and process spatial data from the MTA
+# GTFS using arcpy. This data includes:
 #    * Subway Station Points
 #    * Subway Route Lines
 #    * Bus Stop Points

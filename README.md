@@ -23,4 +23,4 @@ The purpose of this script is to create spataial datasets from the New York MTA 
 3. When the script is done you will have new zip files of these datasets in the directory where the mta_features.py is stored.
 
 ## Notes
-* Some datasets the MTA provide will be incomplete. 
+* Some datasets the MTA provide will be incomplete or missing connections. Use at your own risk.
